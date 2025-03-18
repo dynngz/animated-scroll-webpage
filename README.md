@@ -6,5 +6,8 @@ An **interactive animated scrolling experience** for a movie index or showcase. 
 - ✨ **Smooth Animated Scrolling** – Seamless transitions for a dynamic browsing experience.  
 - 🎞 **Interactive Movie Selection** – Clickable slides with movie details.  
 - 📱 **Responsive Design** – Optimized for various screen sizes.  
-- ⚡ **Performance-Optimized Animations** – Using CSS and JavaScript for fluid motion.  
+- ⚡ **Performance-Optimized Animations** – Using CSS and JavaScript for fluid motion.
+
+## Site
+https://movies-animated-scroll-webpage.netlify.app/
 
